@@ -1,0 +1,29 @@
+/* estilos-ejemplo2.css */
+pais {
+    display: block;
+    background-color: lightblue;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid gray;
+  }
+  
+  departamento {
+    display: block;
+    background-color: lightgreen;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid gray;
+  }
+  
+  cabecera {
+    font-weight: bold;
+  }
+  
+  habitantes {
+    font-style: italic;
+  }
+  
+  altura {
+    color: darkorange;
+  }
+  

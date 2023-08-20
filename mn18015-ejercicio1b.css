@@ -1,0 +1,49 @@
+/* estilos-ejercicio1b.css */
+fichero {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  ficha {
+    display: block;
+    background-color: #f5f5f5;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  nombre, apellido {
+    font-weight: bold;
+  }
+  
+  direccion {
+    font-style: italic;
+    color: #777;
+  }
+  
+  contacto {
+    display: block;
+    background-color: #e0e0e0;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 10px;
+  }
+  
+  telefono {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  email, website {
+    display: block;
+    color: blue;
+    text-decoration: underline;
+    margin-top: 5px;
+  }
+  
+  dui, isss, afp {
+    font-size: 0.8em;
+    margin-top: 5px;
+    color: darkorange;
+  }
+  

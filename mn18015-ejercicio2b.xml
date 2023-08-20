@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="mn18015-ejercicio2b.css" ?>
+<!-- ejercicio2b.xml MN18015 -->
+<pais nombre="El Salvador">
+  <!-- Primer departamento -->
+  <departamento id="1" nombre="San Salvador">
+    <cabecera>San Salvador</cabecera>
+    <habitantes>1,700,000</habitantes>
+    <altura>545 MSNM</altura>
+  </departamento>
+  <!-- Segundo departamento -->
+  <departamento id="2" nombre="Chalatenango">
+    <cabecera>Chalatenango</cabecera>
+    <habitantes>150,000</habitantes>
+    <altura>720 MSNM</altura>
+    <codigo_telefonico>233</codigo_telefonico>
+    <!-- Moneda, idiomas y área territorial -->
+    <detalles>
+      <moneda>Dólar estadounidense</moneda>
+      <idiomas>
+        <oficial>Español</oficial>
+        <autoctono>Potón</autoctono>
+        <segundo_idioma>Inglés</segundo_idioma>
+      </idiomas>
+      <area_territorial>2,017 km²</area_territorial>
+    </detalles>
+  </departamento>
+  <!-- Tercer departamento -->
+  <departamento id="3" nombre="La Libertad">
+    <cabecera>Santa Tecla</cabecera>
+    <habitantes>800,000</habitantes>
+    <altura>430 MSNM</altura>
+    <codigo_telefonico>220</codigo_telefonico>
+    <!-- Moneda, idiomas y área territorial (ejemplo) -->
+    <detalles>
+      <moneda>Colón salvadoreño</moneda>
+      <idiomas>
+        <oficial>Español</oficial>
+        <autoctono>Pipil</autoctono>
+        <segundo_idioma>Inglés</segundo_idioma>
+      </idiomas>
+      <area_territorial>1,653 km²</area_territorial>
+    </detalles>
+  </departamento>
+</pais>

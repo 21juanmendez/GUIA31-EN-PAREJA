@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml-stylesheet type="text/css" href="mn18015-ejercicio2a.css" ?>
+<!-- ejercicio2a.xml  MN18015-->
+<pais nombre="El Salvador">
+<!--primer departamento-->
+<departamento id="1" nombre="San Salvador">
+<cabecera>San Salvador</cabecera>
+<habitantes>1,700,000</habitantes>
+<altura>545 MSNM</altura>
+</departamento>
+<!--segundo departamento-->
+<departamento id="2" nombre="Chalatenango">
+<cabecera>Chalatenango</cabecera>
+<habitantes>150,000</habitantes>
+<altura>720 MSNM</altura>
+<codigo_telefonico>233</codigo_telefonico>
+<!-- Moneda, idiomas y área territorial -->
+  <detalles>
+    <moneda>Dólar estadounidense</moneda>
+    <idiomas>
+      <oficial>Español</oficial>
+      <autoctono>Potón</autoctono>
+      <segundo_idioma>Inglés</segundo_idioma>
+    </idiomas>
+    <area_territorial>2,017 km²</area_territorial>
+  </detalles>
+</departamento>
+</pais>
