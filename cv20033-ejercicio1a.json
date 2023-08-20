@@ -1,0 +1,20 @@
+{
+  "fichero": {
+    "ficha": [
+      {
+        "nombre": "Antonio",
+        "apellido": "Barbero",
+        "direccion": "Calle de Los Andes, 45"
+      },
+      {
+        "nombre": "José Oved",
+        "apellido": "Chavez Vasquez",
+        "carnet": "CV20033",
+        "telefono": 79294093,
+        "email": "cv20033@ues.edu.sv",
+        "website": "http://xml.cv20033.tpi",
+        "direccion": "Olocuilta La Paz"
+      }
+    ]
+  }
+}

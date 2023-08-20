@@ -1,0 +1,50 @@
+/* estilos-ejercicio2a.css */
+pais {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  departamento {
+    display: block;
+    background-color: #f19f9f;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  cabecera {
+    font-weight: bold;
+  }
+  
+  habitantes, altura {
+    display: block;
+    color: rgb(255, 255, 255);
+    margin-top: 5px;
+  }
+  
+  
+  detalles {
+    display: block;
+    background-color: #e0e0e0;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 10px;
+  }
+  
+  moneda, idiomas, area_territorial {
+    display: block;
+    margin-top: 5px;
+  }
+  
+  idiomas {
+    margin-left: 20px;
+  }
+  
+  oficial {
+    font-weight: bold;
+  }
+  
+  autoctono, segundo_idioma {
+    font-style: italic;
+  }
+  

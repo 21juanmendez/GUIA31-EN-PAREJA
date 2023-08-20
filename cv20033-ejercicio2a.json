@@ -1,0 +1,19 @@
+{
+  "pais": {
+    "departamento": [
+      {
+        "cabecera": "San Salvador",
+        "habitantes": "1,700,000",
+        "altura": "545 MSNM"
+      },
+      {
+        "cabecera": "San Vicente",
+        "habitantes": "52,404",
+        "altura": "545 MSNM",
+        "moneda": "Dolar estadounidense",
+        "areatelefonica": 503,
+        "idioma": "Español"
+      }
+    ]
+  }
+}

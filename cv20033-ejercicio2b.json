@@ -1,0 +1,26 @@
+{
+  "pais": {
+    "departamento": [
+      {
+        "cabecera": "San Salvador",
+        "habitantes": "1,700,000",
+        "altura": "545 MSNM"
+      },
+      {
+        "cabecera": "San Vicente",
+        "habitantes": "52,404",
+        "altura": "545 MSNM",
+        "moneda": "Dolar estadounidense",
+        "areatelefonica": 503,
+        "idioma": "Español"
+      },
+      {
+        "cabecera": "Chalatenango",
+        "habitantes": "29,271",
+        "altura": "2730MSNM",
+        "superficie": "2017 km2",
+        "codigopostal": "CH"
+      }
+    ]
+  }
+}
