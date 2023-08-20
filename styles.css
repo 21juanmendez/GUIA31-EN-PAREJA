@@ -46,3 +46,8 @@ footer {
   color: #777;
   margin-top: 40px;
 }
+
+.highlight {
+  color: #FF6F61;
+  font-weight: bold;
+}
